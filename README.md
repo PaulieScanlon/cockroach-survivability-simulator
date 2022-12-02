@@ -1,2 +1,2 @@
 # cockroachdb-survivability-simulator
-A demo API endpoint to simulate survivability
+A demo API endpoint to simulate CockroachDB survivability
